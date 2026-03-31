@@ -13,7 +13,7 @@ This project was created as part of the Digital Literacy course. It demonstrates
 Created a digital literacy awareness infographic using Canva covering safe internet practices, digital tools, and email etiquette.
 
 ### Task 2 – Digital Portfolio
-Created profiles on GitHub, LinkedIn, and HackerRank.
+Created profiles on GitHub, LinkedIn, and ResearchGate.
 
 ### Task 3 – Platforms
 Solved a beginner coding problem on HackerRank and created a Google Form quiz.
